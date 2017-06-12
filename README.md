@@ -1,5 +1,3 @@
-This is the SE meeting
-
 Mod #3
 
 This is a test
